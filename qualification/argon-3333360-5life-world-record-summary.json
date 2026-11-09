@@ -1,0 +1,1598 @@
+{
+  "totalTicks": 991325,
+  "finalScore": 3333360,
+  "finalDisplayedScore": 333360,
+  "finalPhase": "game-over",
+  "finalLevel": 256,
+  "obligationLosses": 0,
+  "milestones": {
+    "10000": {
+      "tick": 5418,
+      "level": 1,
+      "score": 11330
+    },
+    "100000": {
+      "tick": 44652,
+      "level": 7,
+      "score": 101400
+    },
+    "500000": {
+      "tick": 167542,
+      "level": 31,
+      "score": 503470
+    },
+    "1000000": {
+      "tick": 311793,
+      "level": 71,
+      "score": 1001470
+    },
+    "1500000": {
+      "tick": 456755,
+      "level": 111,
+      "score": 1500000
+    },
+    "2000000": {
+      "tick": 600226,
+      "level": 150,
+      "score": 2002870
+    },
+    "2500000": {
+      "tick": 744477,
+      "level": 190,
+      "score": 2500870
+    },
+    "3000000": {
+      "tick": 889917,
+      "level": 230,
+      "score": 3004870
+    },
+    "3326600": {
+      "tick": 983301,
+      "level": 255,
+      "score": 3326600
+    },
+    "3333360": {
+      "tick": 991039,
+      "level": 256,
+      "score": 3333360
+    }
+  },
+  "boards": {
+    "1": {
+      "startTick": 0,
+      "startScore": 0,
+      "endTick": 7428,
+      "endScore": 14800
+    },
+    "2": {
+      "startTick": 7429,
+      "startScore": 14800,
+      "endTick": 15569,
+      "endScore": 30000
+    },
+    "3": {
+      "startTick": 15570,
+      "startScore": 30000,
+      "endTick": 22050,
+      "endScore": 45600
+    },
+    "4": {
+      "startTick": 22051,
+      "startScore": 45600,
+      "endTick": 29772,
+      "endScore": 61200
+    },
+    "5": {
+      "startTick": 29773,
+      "startScore": 61200,
+      "endTick": 36144,
+      "endScore": 77200
+    },
+    "6": {
+      "startTick": 36145,
+      "startScore": 77200,
+      "endTick": 42588,
+      "endScore": 93200
+    },
+    "7": {
+      "startTick": 42589,
+      "startScore": 93200,
+      "endTick": 48438,
+      "endScore": 109800
+    },
+    "8": {
+      "startTick": 48439,
+      "startScore": 109800,
+      "endTick": 54288,
+      "endScore": 126400
+    },
+    "9": {
+      "startTick": 54289,
+      "startScore": 126400,
+      "endTick": 61541,
+      "endScore": 145000
+    },
+    "10": {
+      "startTick": 61542,
+      "startScore": 145000,
+      "endTick": 68364,
+      "endScore": 163600
+    },
+    "11": {
+      "startTick": 68365,
+      "startScore": 163600,
+      "endTick": 74238,
+      "endScore": 184200
+    },
+    "12": {
+      "startTick": 74239,
+      "startScore": 184200,
+      "endTick": 81600,
+      "endScore": 204800
+    },
+    "13": {
+      "startTick": 81601,
+      "startScore": 204800,
+      "endTick": 89483,
+      "endScore": 229400
+    },
+    "14": {
+      "startTick": 89484,
+      "startScore": 229400,
+      "endTick": 95202,
+      "endScore": 254000
+    },
+    "15": {
+      "startTick": 95203,
+      "startScore": 254000,
+      "endTick": 102864,
+      "endScore": 278600
+    },
+    "16": {
+      "startTick": 102865,
+      "startScore": 278600,
+      "endTick": 110526,
+      "endScore": 303200
+    },
+    "17": {
+      "startTick": 110527,
+      "startScore": 303200,
+      "endTick": 114683,
+      "endScore": 315800
+    },
+    "18": {
+      "startTick": 114684,
+      "startScore": 315800,
+      "endTick": 122346,
+      "endScore": 340400
+    },
+    "19": {
+      "startTick": 122347,
+      "startScore": 340400,
+      "endTick": 125712,
+      "endScore": 353000
+    },
+    "20": {
+      "startTick": 125713,
+      "startScore": 353000,
+      "endTick": 129078,
+      "endScore": 365600
+    },
+    "21": {
+      "startTick": 129079,
+      "startScore": 365600,
+      "endTick": 132714,
+      "endScore": 378200
+    },
+    "22": {
+      "startTick": 132715,
+      "startScore": 378200,
+      "endTick": 136350,
+      "endScore": 390800
+    },
+    "23": {
+      "startTick": 136351,
+      "startScore": 390800,
+      "endTick": 139986,
+      "endScore": 403400
+    },
+    "24": {
+      "startTick": 139987,
+      "startScore": 403400,
+      "endTick": 143622,
+      "endScore": 416000
+    },
+    "25": {
+      "startTick": 143623,
+      "startScore": 416000,
+      "endTick": 147258,
+      "endScore": 428600
+    },
+    "26": {
+      "startTick": 147259,
+      "startScore": 428600,
+      "endTick": 150894,
+      "endScore": 441200
+    },
+    "27": {
+      "startTick": 150895,
+      "startScore": 441200,
+      "endTick": 154530,
+      "endScore": 453800
+    },
+    "28": {
+      "startTick": 154531,
+      "startScore": 453800,
+      "endTick": 158166,
+      "endScore": 466400
+    },
+    "29": {
+      "startTick": 158167,
+      "startScore": 466400,
+      "endTick": 161802,
+      "endScore": 479000
+    },
+    "30": {
+      "startTick": 161803,
+      "startScore": 479000,
+      "endTick": 165438,
+      "endScore": 491600
+    },
+    "31": {
+      "startTick": 165439,
+      "startScore": 491600,
+      "endTick": 169074,
+      "endScore": 504200
+    },
+    "32": {
+      "startTick": 169075,
+      "startScore": 504200,
+      "endTick": 172710,
+      "endScore": 516800
+    },
+    "33": {
+      "startTick": 172711,
+      "startScore": 516800,
+      "endTick": 176346,
+      "endScore": 529400
+    },
+    "34": {
+      "startTick": 176347,
+      "startScore": 529400,
+      "endTick": 179982,
+      "endScore": 542000
+    },
+    "35": {
+      "startTick": 179983,
+      "startScore": 542000,
+      "endTick": 183618,
+      "endScore": 554600
+    },
+    "36": {
+      "startTick": 183619,
+      "startScore": 554600,
+      "endTick": 187254,
+      "endScore": 567200
+    },
+    "37": {
+      "startTick": 187255,
+      "startScore": 567200,
+      "endTick": 190890,
+      "endScore": 579800
+    },
+    "38": {
+      "startTick": 190891,
+      "startScore": 579800,
+      "endTick": 194526,
+      "endScore": 592400
+    },
+    "39": {
+      "startTick": 194527,
+      "startScore": 592400,
+      "endTick": 198162,
+      "endScore": 605000
+    },
+    "40": {
+      "startTick": 198163,
+      "startScore": 605000,
+      "endTick": 201798,
+      "endScore": 617600
+    },
+    "41": {
+      "startTick": 201799,
+      "startScore": 617600,
+      "endTick": 205434,
+      "endScore": 630200
+    },
+    "42": {
+      "startTick": 205435,
+      "startScore": 630200,
+      "endTick": 209070,
+      "endScore": 642800
+    },
+    "43": {
+      "startTick": 209071,
+      "startScore": 642800,
+      "endTick": 212706,
+      "endScore": 655400
+    },
+    "44": {
+      "startTick": 212707,
+      "startScore": 655400,
+      "endTick": 216342,
+      "endScore": 668000
+    },
+    "45": {
+      "startTick": 216343,
+      "startScore": 668000,
+      "endTick": 219978,
+      "endScore": 680600
+    },
+    "46": {
+      "startTick": 219979,
+      "startScore": 680600,
+      "endTick": 223614,
+      "endScore": 693200
+    },
+    "47": {
+      "startTick": 223615,
+      "startScore": 693200,
+      "endTick": 227250,
+      "endScore": 705800
+    },
+    "48": {
+      "startTick": 227251,
+      "startScore": 705800,
+      "endTick": 230886,
+      "endScore": 718400
+    },
+    "49": {
+      "startTick": 230887,
+      "startScore": 718400,
+      "endTick": 234522,
+      "endScore": 731000
+    },
+    "50": {
+      "startTick": 234523,
+      "startScore": 731000,
+      "endTick": 238158,
+      "endScore": 743600
+    },
+    "51": {
+      "startTick": 238159,
+      "startScore": 743600,
+      "endTick": 241794,
+      "endScore": 756200
+    },
+    "52": {
+      "startTick": 241795,
+      "startScore": 756200,
+      "endTick": 245430,
+      "endScore": 768800
+    },
+    "53": {
+      "startTick": 245431,
+      "startScore": 768800,
+      "endTick": 249066,
+      "endScore": 781400
+    },
+    "54": {
+      "startTick": 249067,
+      "startScore": 781400,
+      "endTick": 252702,
+      "endScore": 794000
+    },
+    "55": {
+      "startTick": 252703,
+      "startScore": 794000,
+      "endTick": 256338,
+      "endScore": 806600
+    },
+    "56": {
+      "startTick": 256339,
+      "startScore": 806600,
+      "endTick": 259974,
+      "endScore": 819200
+    },
+    "57": {
+      "startTick": 259975,
+      "startScore": 819200,
+      "endTick": 263610,
+      "endScore": 831800
+    },
+    "58": {
+      "startTick": 263611,
+      "startScore": 831800,
+      "endTick": 267246,
+      "endScore": 844400
+    },
+    "59": {
+      "startTick": 267247,
+      "startScore": 844400,
+      "endTick": 270882,
+      "endScore": 857000
+    },
+    "60": {
+      "startTick": 270883,
+      "startScore": 857000,
+      "endTick": 274518,
+      "endScore": 869600
+    },
+    "61": {
+      "startTick": 274519,
+      "startScore": 869600,
+      "endTick": 278154,
+      "endScore": 882200
+    },
+    "62": {
+      "startTick": 278155,
+      "startScore": 882200,
+      "endTick": 281790,
+      "endScore": 894800
+    },
+    "63": {
+      "startTick": 281791,
+      "startScore": 894800,
+      "endTick": 285426,
+      "endScore": 907400
+    },
+    "64": {
+      "startTick": 285427,
+      "startScore": 907400,
+      "endTick": 289062,
+      "endScore": 920000
+    },
+    "65": {
+      "startTick": 289063,
+      "startScore": 920000,
+      "endTick": 292698,
+      "endScore": 932600
+    },
+    "66": {
+      "startTick": 292699,
+      "startScore": 932600,
+      "endTick": 296334,
+      "endScore": 945200
+    },
+    "67": {
+      "startTick": 296335,
+      "startScore": 945200,
+      "endTick": 299970,
+      "endScore": 957800
+    },
+    "68": {
+      "startTick": 299971,
+      "startScore": 957800,
+      "endTick": 303606,
+      "endScore": 970400
+    },
+    "69": {
+      "startTick": 303607,
+      "startScore": 970400,
+      "endTick": 307242,
+      "endScore": 983000
+    },
+    "70": {
+      "startTick": 307243,
+      "startScore": 983000,
+      "endTick": 310878,
+      "endScore": 995600
+    },
+    "71": {
+      "startTick": 310879,
+      "startScore": 995600,
+      "endTick": 314514,
+      "endScore": 1008200
+    },
+    "72": {
+      "startTick": 314515,
+      "startScore": 1008200,
+      "endTick": 318150,
+      "endScore": 1020800
+    },
+    "73": {
+      "startTick": 318151,
+      "startScore": 1020800,
+      "endTick": 321786,
+      "endScore": 1033400
+    },
+    "74": {
+      "startTick": 321787,
+      "startScore": 1033400,
+      "endTick": 325422,
+      "endScore": 1046000
+    },
+    "75": {
+      "startTick": 325423,
+      "startScore": 1046000,
+      "endTick": 329058,
+      "endScore": 1058600
+    },
+    "76": {
+      "startTick": 329059,
+      "startScore": 1058600,
+      "endTick": 332694,
+      "endScore": 1071200
+    },
+    "77": {
+      "startTick": 332695,
+      "startScore": 1071200,
+      "endTick": 336330,
+      "endScore": 1083800
+    },
+    "78": {
+      "startTick": 336331,
+      "startScore": 1083800,
+      "endTick": 339966,
+      "endScore": 1096400
+    },
+    "79": {
+      "startTick": 339967,
+      "startScore": 1096400,
+      "endTick": 343602,
+      "endScore": 1109000
+    },
+    "80": {
+      "startTick": 343603,
+      "startScore": 1109000,
+      "endTick": 347238,
+      "endScore": 1121600
+    },
+    "81": {
+      "startTick": 347239,
+      "startScore": 1121600,
+      "endTick": 350874,
+      "endScore": 1134200
+    },
+    "82": {
+      "startTick": 350875,
+      "startScore": 1134200,
+      "endTick": 354510,
+      "endScore": 1146800
+    },
+    "83": {
+      "startTick": 354511,
+      "startScore": 1146800,
+      "endTick": 358146,
+      "endScore": 1159400
+    },
+    "84": {
+      "startTick": 358147,
+      "startScore": 1159400,
+      "endTick": 361782,
+      "endScore": 1172000
+    },
+    "85": {
+      "startTick": 361783,
+      "startScore": 1172000,
+      "endTick": 365418,
+      "endScore": 1184600
+    },
+    "86": {
+      "startTick": 365419,
+      "startScore": 1184600,
+      "endTick": 369054,
+      "endScore": 1197200
+    },
+    "87": {
+      "startTick": 369055,
+      "startScore": 1197200,
+      "endTick": 372690,
+      "endScore": 1209800
+    },
+    "88": {
+      "startTick": 372691,
+      "startScore": 1209800,
+      "endTick": 376326,
+      "endScore": 1222400
+    },
+    "89": {
+      "startTick": 376327,
+      "startScore": 1222400,
+      "endTick": 379962,
+      "endScore": 1235000
+    },
+    "90": {
+      "startTick": 379963,
+      "startScore": 1235000,
+      "endTick": 383598,
+      "endScore": 1247600
+    },
+    "91": {
+      "startTick": 383599,
+      "startScore": 1247600,
+      "endTick": 387234,
+      "endScore": 1260200
+    },
+    "92": {
+      "startTick": 387235,
+      "startScore": 1260200,
+      "endTick": 390870,
+      "endScore": 1272800
+    },
+    "93": {
+      "startTick": 390871,
+      "startScore": 1272800,
+      "endTick": 394506,
+      "endScore": 1285400
+    },
+    "94": {
+      "startTick": 394507,
+      "startScore": 1285400,
+      "endTick": 398142,
+      "endScore": 1298000
+    },
+    "95": {
+      "startTick": 398143,
+      "startScore": 1298000,
+      "endTick": 401778,
+      "endScore": 1310600
+    },
+    "96": {
+      "startTick": 401779,
+      "startScore": 1310600,
+      "endTick": 405414,
+      "endScore": 1323200
+    },
+    "97": {
+      "startTick": 405415,
+      "startScore": 1323200,
+      "endTick": 409050,
+      "endScore": 1335800
+    },
+    "98": {
+      "startTick": 409051,
+      "startScore": 1335800,
+      "endTick": 412686,
+      "endScore": 1348400
+    },
+    "99": {
+      "startTick": 412687,
+      "startScore": 1348400,
+      "endTick": 416322,
+      "endScore": 1361000
+    },
+    "100": {
+      "startTick": 416323,
+      "startScore": 1361000,
+      "endTick": 419958,
+      "endScore": 1373600
+    },
+    "101": {
+      "startTick": 419959,
+      "startScore": 1373600,
+      "endTick": 423594,
+      "endScore": 1386200
+    },
+    "102": {
+      "startTick": 423595,
+      "startScore": 1386200,
+      "endTick": 427230,
+      "endScore": 1398800
+    },
+    "103": {
+      "startTick": 427231,
+      "startScore": 1398800,
+      "endTick": 430866,
+      "endScore": 1411400
+    },
+    "104": {
+      "startTick": 430867,
+      "startScore": 1411400,
+      "endTick": 434502,
+      "endScore": 1424000
+    },
+    "105": {
+      "startTick": 434503,
+      "startScore": 1424000,
+      "endTick": 438138,
+      "endScore": 1436600
+    },
+    "106": {
+      "startTick": 438139,
+      "startScore": 1436600,
+      "endTick": 441774,
+      "endScore": 1449200
+    },
+    "107": {
+      "startTick": 441775,
+      "startScore": 1449200,
+      "endTick": 445410,
+      "endScore": 1461800
+    },
+    "108": {
+      "startTick": 445411,
+      "startScore": 1461800,
+      "endTick": 449046,
+      "endScore": 1474400
+    },
+    "109": {
+      "startTick": 449047,
+      "startScore": 1474400,
+      "endTick": 452682,
+      "endScore": 1487000
+    },
+    "110": {
+      "startTick": 452683,
+      "startScore": 1487000,
+      "endTick": 456318,
+      "endScore": 1499600
+    },
+    "111": {
+      "startTick": 456319,
+      "startScore": 1499600,
+      "endTick": 459954,
+      "endScore": 1512200
+    },
+    "112": {
+      "startTick": 459955,
+      "startScore": 1512200,
+      "endTick": 463590,
+      "endScore": 1524800
+    },
+    "113": {
+      "startTick": 463591,
+      "startScore": 1524800,
+      "endTick": 467226,
+      "endScore": 1537400
+    },
+    "114": {
+      "startTick": 467227,
+      "startScore": 1537400,
+      "endTick": 470862,
+      "endScore": 1550000
+    },
+    "115": {
+      "startTick": 470863,
+      "startScore": 1550000,
+      "endTick": 474498,
+      "endScore": 1562600
+    },
+    "116": {
+      "startTick": 474499,
+      "startScore": 1562600,
+      "endTick": 478134,
+      "endScore": 1575200
+    },
+    "117": {
+      "startTick": 478135,
+      "startScore": 1575200,
+      "endTick": 481770,
+      "endScore": 1587800
+    },
+    "118": {
+      "startTick": 481771,
+      "startScore": 1587800,
+      "endTick": 485406,
+      "endScore": 1600400
+    },
+    "119": {
+      "startTick": 485407,
+      "startScore": 1600400,
+      "endTick": 489042,
+      "endScore": 1613000
+    },
+    "120": {
+      "startTick": 489043,
+      "startScore": 1613000,
+      "endTick": 492678,
+      "endScore": 1625600
+    },
+    "121": {
+      "startTick": 492679,
+      "startScore": 1625600,
+      "endTick": 496314,
+      "endScore": 1638200
+    },
+    "122": {
+      "startTick": 496315,
+      "startScore": 1638200,
+      "endTick": 499950,
+      "endScore": 1650800
+    },
+    "123": {
+      "startTick": 499951,
+      "startScore": 1650800,
+      "endTick": 503586,
+      "endScore": 1663400
+    },
+    "124": {
+      "startTick": 503587,
+      "startScore": 1663400,
+      "endTick": 507222,
+      "endScore": 1676000
+    },
+    "125": {
+      "startTick": 507223,
+      "startScore": 1676000,
+      "endTick": 510858,
+      "endScore": 1688600
+    },
+    "126": {
+      "startTick": 510859,
+      "startScore": 1688600,
+      "endTick": 514494,
+      "endScore": 1701200
+    },
+    "127": {
+      "startTick": 514495,
+      "startScore": 1701200,
+      "endTick": 518130,
+      "endScore": 1713800
+    },
+    "128": {
+      "startTick": 518131,
+      "startScore": 1713800,
+      "endTick": 521766,
+      "endScore": 1726400
+    },
+    "129": {
+      "startTick": 521767,
+      "startScore": 1726400,
+      "endTick": 525402,
+      "endScore": 1739000
+    },
+    "130": {
+      "startTick": 525403,
+      "startScore": 1739000,
+      "endTick": 529038,
+      "endScore": 1751600
+    },
+    "131": {
+      "startTick": 529039,
+      "startScore": 1751600,
+      "endTick": 532674,
+      "endScore": 1764200
+    },
+    "132": {
+      "startTick": 532675,
+      "startScore": 1764200,
+      "endTick": 536310,
+      "endScore": 1776800
+    },
+    "133": {
+      "startTick": 536311,
+      "startScore": 1776800,
+      "endTick": 539946,
+      "endScore": 1789400
+    },
+    "134": {
+      "startTick": 539947,
+      "startScore": 1789400,
+      "endTick": 543582,
+      "endScore": 1802000
+    },
+    "135": {
+      "startTick": 543583,
+      "startScore": 1802000,
+      "endTick": 547218,
+      "endScore": 1814600
+    },
+    "136": {
+      "startTick": 547219,
+      "startScore": 1814600,
+      "endTick": 550854,
+      "endScore": 1827200
+    },
+    "137": {
+      "startTick": 550855,
+      "startScore": 1827200,
+      "endTick": 554490,
+      "endScore": 1839800
+    },
+    "138": {
+      "startTick": 554491,
+      "startScore": 1839800,
+      "endTick": 558126,
+      "endScore": 1852400
+    },
+    "139": {
+      "startTick": 558127,
+      "startScore": 1852400,
+      "endTick": 561762,
+      "endScore": 1865000
+    },
+    "140": {
+      "startTick": 561763,
+      "startScore": 1865000,
+      "endTick": 565398,
+      "endScore": 1877600
+    },
+    "141": {
+      "startTick": 565399,
+      "startScore": 1877600,
+      "endTick": 569034,
+      "endScore": 1890200
+    },
+    "142": {
+      "startTick": 569035,
+      "startScore": 1890200,
+      "endTick": 572670,
+      "endScore": 1902800
+    },
+    "143": {
+      "startTick": 572671,
+      "startScore": 1902800,
+      "endTick": 576306,
+      "endScore": 1915400
+    },
+    "144": {
+      "startTick": 576307,
+      "startScore": 1915400,
+      "endTick": 579942,
+      "endScore": 1928000
+    },
+    "145": {
+      "startTick": 579943,
+      "startScore": 1928000,
+      "endTick": 583578,
+      "endScore": 1940600
+    },
+    "146": {
+      "startTick": 583579,
+      "startScore": 1940600,
+      "endTick": 587214,
+      "endScore": 1953200
+    },
+    "147": {
+      "startTick": 587215,
+      "startScore": 1953200,
+      "endTick": 590850,
+      "endScore": 1965800
+    },
+    "148": {
+      "startTick": 590851,
+      "startScore": 1965800,
+      "endTick": 594486,
+      "endScore": 1978400
+    },
+    "149": {
+      "startTick": 594487,
+      "startScore": 1978400,
+      "endTick": 598122,
+      "endScore": 1991000
+    },
+    "150": {
+      "startTick": 598123,
+      "startScore": 1991000,
+      "endTick": 601758,
+      "endScore": 2003600
+    },
+    "151": {
+      "startTick": 601759,
+      "startScore": 2003600,
+      "endTick": 605394,
+      "endScore": 2016200
+    },
+    "152": {
+      "startTick": 605395,
+      "startScore": 2016200,
+      "endTick": 609030,
+      "endScore": 2028800
+    },
+    "153": {
+      "startTick": 609031,
+      "startScore": 2028800,
+      "endTick": 612666,
+      "endScore": 2041400
+    },
+    "154": {
+      "startTick": 612667,
+      "startScore": 2041400,
+      "endTick": 616302,
+      "endScore": 2054000
+    },
+    "155": {
+      "startTick": 616303,
+      "startScore": 2054000,
+      "endTick": 619938,
+      "endScore": 2066600
+    },
+    "156": {
+      "startTick": 619939,
+      "startScore": 2066600,
+      "endTick": 623574,
+      "endScore": 2079200
+    },
+    "157": {
+      "startTick": 623575,
+      "startScore": 2079200,
+      "endTick": 627210,
+      "endScore": 2091800
+    },
+    "158": {
+      "startTick": 627211,
+      "startScore": 2091800,
+      "endTick": 630846,
+      "endScore": 2104400
+    },
+    "159": {
+      "startTick": 630847,
+      "startScore": 2104400,
+      "endTick": 634482,
+      "endScore": 2117000
+    },
+    "160": {
+      "startTick": 634483,
+      "startScore": 2117000,
+      "endTick": 638118,
+      "endScore": 2129600
+    },
+    "161": {
+      "startTick": 638119,
+      "startScore": 2129600,
+      "endTick": 641754,
+      "endScore": 2142200
+    },
+    "162": {
+      "startTick": 641755,
+      "startScore": 2142200,
+      "endTick": 645390,
+      "endScore": 2154800
+    },
+    "163": {
+      "startTick": 645391,
+      "startScore": 2154800,
+      "endTick": 649026,
+      "endScore": 2167400
+    },
+    "164": {
+      "startTick": 649027,
+      "startScore": 2167400,
+      "endTick": 652662,
+      "endScore": 2180000
+    },
+    "165": {
+      "startTick": 652663,
+      "startScore": 2180000,
+      "endTick": 656298,
+      "endScore": 2192600
+    },
+    "166": {
+      "startTick": 656299,
+      "startScore": 2192600,
+      "endTick": 659934,
+      "endScore": 2205200
+    },
+    "167": {
+      "startTick": 659935,
+      "startScore": 2205200,
+      "endTick": 663570,
+      "endScore": 2217800
+    },
+    "168": {
+      "startTick": 663571,
+      "startScore": 2217800,
+      "endTick": 667206,
+      "endScore": 2230400
+    },
+    "169": {
+      "startTick": 667207,
+      "startScore": 2230400,
+      "endTick": 670842,
+      "endScore": 2243000
+    },
+    "170": {
+      "startTick": 670843,
+      "startScore": 2243000,
+      "endTick": 674478,
+      "endScore": 2255600
+    },
+    "171": {
+      "startTick": 674479,
+      "startScore": 2255600,
+      "endTick": 678114,
+      "endScore": 2268200
+    },
+    "172": {
+      "startTick": 678115,
+      "startScore": 2268200,
+      "endTick": 681750,
+      "endScore": 2280800
+    },
+    "173": {
+      "startTick": 681751,
+      "startScore": 2280800,
+      "endTick": 685386,
+      "endScore": 2293400
+    },
+    "174": {
+      "startTick": 685387,
+      "startScore": 2293400,
+      "endTick": 689022,
+      "endScore": 2306000
+    },
+    "175": {
+      "startTick": 689023,
+      "startScore": 2306000,
+      "endTick": 692658,
+      "endScore": 2318600
+    },
+    "176": {
+      "startTick": 692659,
+      "startScore": 2318600,
+      "endTick": 696294,
+      "endScore": 2331200
+    },
+    "177": {
+      "startTick": 696295,
+      "startScore": 2331200,
+      "endTick": 699930,
+      "endScore": 2343800
+    },
+    "178": {
+      "startTick": 699931,
+      "startScore": 2343800,
+      "endTick": 703566,
+      "endScore": 2356400
+    },
+    "179": {
+      "startTick": 703567,
+      "startScore": 2356400,
+      "endTick": 707202,
+      "endScore": 2369000
+    },
+    "180": {
+      "startTick": 707203,
+      "startScore": 2369000,
+      "endTick": 710838,
+      "endScore": 2381600
+    },
+    "181": {
+      "startTick": 710839,
+      "startScore": 2381600,
+      "endTick": 714474,
+      "endScore": 2394200
+    },
+    "182": {
+      "startTick": 714475,
+      "startScore": 2394200,
+      "endTick": 718110,
+      "endScore": 2406800
+    },
+    "183": {
+      "startTick": 718111,
+      "startScore": 2406800,
+      "endTick": 721746,
+      "endScore": 2419400
+    },
+    "184": {
+      "startTick": 721747,
+      "startScore": 2419400,
+      "endTick": 725382,
+      "endScore": 2432000
+    },
+    "185": {
+      "startTick": 725383,
+      "startScore": 2432000,
+      "endTick": 729018,
+      "endScore": 2444600
+    },
+    "186": {
+      "startTick": 729019,
+      "startScore": 2444600,
+      "endTick": 732654,
+      "endScore": 2457200
+    },
+    "187": {
+      "startTick": 732655,
+      "startScore": 2457200,
+      "endTick": 736290,
+      "endScore": 2469800
+    },
+    "188": {
+      "startTick": 736291,
+      "startScore": 2469800,
+      "endTick": 739926,
+      "endScore": 2482400
+    },
+    "189": {
+      "startTick": 739927,
+      "startScore": 2482400,
+      "endTick": 743562,
+      "endScore": 2495000
+    },
+    "190": {
+      "startTick": 743563,
+      "startScore": 2495000,
+      "endTick": 747198,
+      "endScore": 2507600
+    },
+    "191": {
+      "startTick": 747199,
+      "startScore": 2507600,
+      "endTick": 750834,
+      "endScore": 2520200
+    },
+    "192": {
+      "startTick": 750835,
+      "startScore": 2520200,
+      "endTick": 754470,
+      "endScore": 2532800
+    },
+    "193": {
+      "startTick": 754471,
+      "startScore": 2532800,
+      "endTick": 758106,
+      "endScore": 2545400
+    },
+    "194": {
+      "startTick": 758107,
+      "startScore": 2545400,
+      "endTick": 761742,
+      "endScore": 2558000
+    },
+    "195": {
+      "startTick": 761743,
+      "startScore": 2558000,
+      "endTick": 765378,
+      "endScore": 2570600
+    },
+    "196": {
+      "startTick": 765379,
+      "startScore": 2570600,
+      "endTick": 769014,
+      "endScore": 2583200
+    },
+    "197": {
+      "startTick": 769015,
+      "startScore": 2583200,
+      "endTick": 772650,
+      "endScore": 2595800
+    },
+    "198": {
+      "startTick": 772651,
+      "startScore": 2595800,
+      "endTick": 776286,
+      "endScore": 2608400
+    },
+    "199": {
+      "startTick": 776287,
+      "startScore": 2608400,
+      "endTick": 779922,
+      "endScore": 2621000
+    },
+    "200": {
+      "startTick": 779923,
+      "startScore": 2621000,
+      "endTick": 783558,
+      "endScore": 2633600
+    },
+    "201": {
+      "startTick": 783559,
+      "startScore": 2633600,
+      "endTick": 787194,
+      "endScore": 2646200
+    },
+    "202": {
+      "startTick": 787195,
+      "startScore": 2646200,
+      "endTick": 790830,
+      "endScore": 2658800
+    },
+    "203": {
+      "startTick": 790831,
+      "startScore": 2658800,
+      "endTick": 794466,
+      "endScore": 2671400
+    },
+    "204": {
+      "startTick": 794467,
+      "startScore": 2671400,
+      "endTick": 798102,
+      "endScore": 2684000
+    },
+    "205": {
+      "startTick": 798103,
+      "startScore": 2684000,
+      "endTick": 801738,
+      "endScore": 2696600
+    },
+    "206": {
+      "startTick": 801739,
+      "startScore": 2696600,
+      "endTick": 805374,
+      "endScore": 2709200
+    },
+    "207": {
+      "startTick": 805375,
+      "startScore": 2709200,
+      "endTick": 809010,
+      "endScore": 2721800
+    },
+    "208": {
+      "startTick": 809011,
+      "startScore": 2721800,
+      "endTick": 812646,
+      "endScore": 2734400
+    },
+    "209": {
+      "startTick": 812647,
+      "startScore": 2734400,
+      "endTick": 816282,
+      "endScore": 2747000
+    },
+    "210": {
+      "startTick": 816283,
+      "startScore": 2747000,
+      "endTick": 819918,
+      "endScore": 2759600
+    },
+    "211": {
+      "startTick": 819919,
+      "startScore": 2759600,
+      "endTick": 823554,
+      "endScore": 2772200
+    },
+    "212": {
+      "startTick": 823555,
+      "startScore": 2772200,
+      "endTick": 827190,
+      "endScore": 2784800
+    },
+    "213": {
+      "startTick": 827191,
+      "startScore": 2784800,
+      "endTick": 830826,
+      "endScore": 2797400
+    },
+    "214": {
+      "startTick": 830827,
+      "startScore": 2797400,
+      "endTick": 834462,
+      "endScore": 2810000
+    },
+    "215": {
+      "startTick": 834463,
+      "startScore": 2810000,
+      "endTick": 838098,
+      "endScore": 2822600
+    },
+    "216": {
+      "startTick": 838099,
+      "startScore": 2822600,
+      "endTick": 841734,
+      "endScore": 2835200
+    },
+    "217": {
+      "startTick": 841735,
+      "startScore": 2835200,
+      "endTick": 845370,
+      "endScore": 2847800
+    },
+    "218": {
+      "startTick": 845371,
+      "startScore": 2847800,
+      "endTick": 849006,
+      "endScore": 2860400
+    },
+    "219": {
+      "startTick": 849007,
+      "startScore": 2860400,
+      "endTick": 852642,
+      "endScore": 2873000
+    },
+    "220": {
+      "startTick": 852643,
+      "startScore": 2873000,
+      "endTick": 856278,
+      "endScore": 2885600
+    },
+    "221": {
+      "startTick": 856279,
+      "startScore": 2885600,
+      "endTick": 859914,
+      "endScore": 2898200
+    },
+    "222": {
+      "startTick": 859915,
+      "startScore": 2898200,
+      "endTick": 863550,
+      "endScore": 2910800
+    },
+    "223": {
+      "startTick": 863551,
+      "startScore": 2910800,
+      "endTick": 867186,
+      "endScore": 2923400
+    },
+    "224": {
+      "startTick": 867187,
+      "startScore": 2923400,
+      "endTick": 870822,
+      "endScore": 2936000
+    },
+    "225": {
+      "startTick": 870823,
+      "startScore": 2936000,
+      "endTick": 874458,
+      "endScore": 2948600
+    },
+    "226": {
+      "startTick": 874459,
+      "startScore": 2948600,
+      "endTick": 878094,
+      "endScore": 2961200
+    },
+    "227": {
+      "startTick": 878095,
+      "startScore": 2961200,
+      "endTick": 881730,
+      "endScore": 2973800
+    },
+    "228": {
+      "startTick": 881731,
+      "startScore": 2973800,
+      "endTick": 885366,
+      "endScore": 2986400
+    },
+    "229": {
+      "startTick": 885367,
+      "startScore": 2986400,
+      "endTick": 889002,
+      "endScore": 2999000
+    },
+    "230": {
+      "startTick": 889003,
+      "startScore": 2999000,
+      "endTick": 892638,
+      "endScore": 3011600
+    },
+    "231": {
+      "startTick": 892639,
+      "startScore": 3011600,
+      "endTick": 896274,
+      "endScore": 3024200
+    },
+    "232": {
+      "startTick": 896275,
+      "startScore": 3024200,
+      "endTick": 899910,
+      "endScore": 3036800
+    },
+    "233": {
+      "startTick": 899911,
+      "startScore": 3036800,
+      "endTick": 903546,
+      "endScore": 3049400
+    },
+    "234": {
+      "startTick": 903547,
+      "startScore": 3049400,
+      "endTick": 907182,
+      "endScore": 3062000
+    },
+    "235": {
+      "startTick": 907183,
+      "startScore": 3062000,
+      "endTick": 910818,
+      "endScore": 3074600
+    },
+    "236": {
+      "startTick": 910819,
+      "startScore": 3074600,
+      "endTick": 914454,
+      "endScore": 3087200
+    },
+    "237": {
+      "startTick": 914455,
+      "startScore": 3087200,
+      "endTick": 918090,
+      "endScore": 3099800
+    },
+    "238": {
+      "startTick": 918091,
+      "startScore": 3099800,
+      "endTick": 921726,
+      "endScore": 3112400
+    },
+    "239": {
+      "startTick": 921727,
+      "startScore": 3112400,
+      "endTick": 925362,
+      "endScore": 3125000
+    },
+    "240": {
+      "startTick": 925363,
+      "startScore": 3125000,
+      "endTick": 928998,
+      "endScore": 3137600
+    },
+    "241": {
+      "startTick": 928999,
+      "startScore": 3137600,
+      "endTick": 932634,
+      "endScore": 3150200
+    },
+    "242": {
+      "startTick": 932635,
+      "startScore": 3150200,
+      "endTick": 936270,
+      "endScore": 3162800
+    },
+    "243": {
+      "startTick": 936271,
+      "startScore": 3162800,
+      "endTick": 939906,
+      "endScore": 3175400
+    },
+    "244": {
+      "startTick": 939907,
+      "startScore": 3175400,
+      "endTick": 943542,
+      "endScore": 3188000
+    },
+    "245": {
+      "startTick": 943543,
+      "startScore": 3188000,
+      "endTick": 947178,
+      "endScore": 3200600
+    },
+    "246": {
+      "startTick": 947179,
+      "startScore": 3200600,
+      "endTick": 950814,
+      "endScore": 3213200
+    },
+    "247": {
+      "startTick": 950815,
+      "startScore": 3213200,
+      "endTick": 954450,
+      "endScore": 3225800
+    },
+    "248": {
+      "startTick": 954451,
+      "startScore": 3225800,
+      "endTick": 958086,
+      "endScore": 3238400
+    },
+    "249": {
+      "startTick": 958087,
+      "startScore": 3238400,
+      "endTick": 961722,
+      "endScore": 3251000
+    },
+    "250": {
+      "startTick": 961723,
+      "startScore": 3251000,
+      "endTick": 965358,
+      "endScore": 3263600
+    },
+    "251": {
+      "startTick": 965359,
+      "startScore": 3263600,
+      "endTick": 968994,
+      "endScore": 3276200
+    },
+    "252": {
+      "startTick": 968995,
+      "startScore": 3276200,
+      "endTick": 972630,
+      "endScore": 3288800
+    },
+    "253": {
+      "startTick": 972631,
+      "startScore": 3288800,
+      "endTick": 976266,
+      "endScore": 3301400
+    },
+    "254": {
+      "startTick": 976267,
+      "startScore": 3301400,
+      "endTick": 979902,
+      "endScore": 3314000
+    },
+    "255": {
+      "startTick": 979903,
+      "startScore": 3314000,
+      "endTick": 983538,
+      "endScore": 3326600
+    },
+    "256": {
+      "startTick": 983539,
+      "startScore": 3326600,
+      "endTick": 991324,
+      "endScore": 3333360
+    }
+  }
+}
